@@ -31,6 +31,7 @@ I'm a recent graduate looking for opportunities to start my career in IT. I'm pa
 
 
 <h3 align="left">Languages and Tools:</h3>
+
 <p align="left"> 
  <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40" margin="10px" padding="10px"/> </a>
  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40" margin="10px" padding="10px"/> </a> 
@@ -48,10 +49,12 @@ I'm a recent graduate looking for opportunities to start my career in IT. I'm pa
  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" margin="10px" padding="10px"/> </a> 
  <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40" margin="10px" padding="10px"/> </a> 
- <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40" margin="10px" padding="10px"/> </a> </p>
+ <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40" margin="10px" padding="10px"/> </a> 
+
+</p>
 
 
-<p><img height="250px" width :"250px" margin="20px" padding="20px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=suneel-yekasiri&show_icons=true&locale=en&layout=compact" alt="suneel-yekasiri" /></p>
+
 
 <p>&nbsp;<img height="250px" width :"250px" margin="10px" padding="10px" align="center" src="https://github-readme-stats.vercel.app/api?username=suneel-yekasiri&show_icons=true&locale=en" alt="suneel-yekasiri" /></p>
 
