@@ -53,7 +53,8 @@ I'm a recent graduate looking for opportunities to start my career in IT. I'm pa
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=suneel-yekasiri&show_icons=true&locale=en" alt="suneel-yekasiri" /></p>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=suneel-yekasiri&" alt="suneel-yekasiri" /></p>
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=suneel-yekasiri&show_icons=true&locale=en&layout=compact" alt="suneel-yekasiri" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=suneel-yekasiri&" alt="suneel-yekasiri" /></p>
 
