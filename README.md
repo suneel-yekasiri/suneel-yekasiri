@@ -3,19 +3,23 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suneel-yekasiri&label=Profile%20views&color=0e75b6&style=flat" alt="suneel-yekasiri" /> </p>
 
-My name is [Your Name] and I'm a recent graduate looking for opportunities to start my career in [Your Field/Industry]. I'm passionate about [Your Interests/Hobbies] and always eager to learn and grow.
+I'm a recent graduate looking for opportunities to start my career in IT. I'm passionate about development and always eager to learn and grow.
 
  🌱 I’m currently learning
 
-- full stack development
+    - full stack development
 
-- 👨‍💻 All of my projects are available at [https://github.com/suneel-yekasiri?tab=repositories](https://github.com/suneel-yekasiri?tab=repositories)
+ 👨‍💻 All of my projects are available at 
+    -[https://github.com/suneel-yekasiri?tab=repositories](https://github.com/suneel-yekasiri?tab=repositories)
 
-- 💬 Ask me about **java, python, html, css, js**
+ 💬 Ask me about 
+    - java, python, html, css, js
 
-- 📫 How to reach me **yekasirisuneel786@gmail.com**
+ 📫 How to reach me 
+    - **yekasirisuneel786@gmail.com**
 
-- ⚡ Fun fact **I'm a recent graduate with a passion for programming. I am certified Full Stack developer and have been working on building web applications in my free time. I love the challenge of creating something from scratch and the satisfaction of seeing my code come to life. I'm excited to continue learning and growing my skills as a full stack developer**
+ ⚡ Fun fact 
+    - **I'm a recent graduate with a passion for programming. I am certified Full Stack developer and have been working on building web applications in my free time. I love the challenge of creating something from scratch and the satisfaction of seeing my code come to life. I'm excited to continue learning and growing my skills as a full stack developer**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
