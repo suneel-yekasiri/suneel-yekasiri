@@ -54,9 +54,8 @@ I'm a recent graduate looking for opportunities to start my career in IT. I'm pa
 
 <p>
  <img align="cemter" height="200px" width="450px" src="https://github-readme-stats.vercel.app/api/top-langs?username=suneel-yekasiri&show_icons=true&locale=en&layout=compact" alt="suneel-yekasiri" />
- &nbsp;<img align="center" height="200px" src="https://github-readme-stats.vercel.app/api?username=suneel-yekasiri&show_icons=true&locale=en" alt="suneel-yekasiri" />
+ <br>
+ &nbsp;<img align="center" height="200px" idth="450px" src="https://github-readme-stats.vercel.app/api?username=suneel-yekasiri&show_icons=true&locale=en" alt="suneel-yekasiri" />
 </p>
-
-<p></p>
 
 <p><img align="center" height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=suneel-yekasiri&" alt="suneel-yekasiri" /></p>
