@@ -52,7 +52,7 @@ I'm a recent graduate looking for opportunities to start my career in IT. I'm pa
  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40" margin="10px" padding="10px"/> </a> 
 </p>
 
-<p><img align="left" height="200px" width="200px" src="https://github-readme-stats.vercel.app/api/top-langs?username=suneel-yekasiri&show_icons=true&locale=en&layout=compact" alt="suneel-yekasiri" /></p>
+<p><img align="left" height="200px" width="300px" src="https://github-readme-stats.vercel.app/api/top-langs?username=suneel-yekasiri&show_icons=true&locale=en&layout=compact" alt="suneel-yekasiri" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=suneel-yekasiri&show_icons=true&locale=en" alt="suneel-yekasiri" /></p>
 
