@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suneel-yekasiri&label=Profile%20views&color=0e75b6&style=flat" alt="suneel-yekasiri" /> </p>
 
+My name is [Your Name] and I'm a recent graduate looking for opportunities to start my career in [Your Field/Industry]. I'm passionate about [Your Interests/Hobbies] and always eager to learn and grow.
+
  🌱 I’m currently learning
 
 - full stack development
