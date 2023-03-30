@@ -54,4 +54,4 @@ I'm a recent graduate looking for opportunities to start my career in IT. I'm pa
 
 <p><a>&nbsp;<img height="200px" width :"350px" margin="10px" padding="10px" align="center" src="https://github-readme-stats.vercel.app/api?username=suneel-yekasiri&show_icons=true&locale=en" alt="suneel-yekasiri" /></a></p>
 
-<a><img height="200px" width :"350px" margin="10px" padding="10px" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=suneel-yekasiri&" alt="suneel-yekasiri" /></a>
+<p><a><img height="200px" width :"350px" margin="10px" padding="10px" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=suneel-yekasiri&" alt="suneel-yekasiri" /></a></p>
