@@ -5,21 +5,21 @@
 
 I'm a recent graduate looking for opportunities to start my career in IT. I'm passionate about development and always eager to learn and grow.
 
- 🌱 I’m currently learning
+ 🌱 **I’m currently learning**
 
     - full stack development
 
- 👨‍💻 All of my projects are available at 
+ 👨‍💻 **All of my projects are available at**
     -[https://github.com/suneel-yekasiri?tab=repositories](https://github.com/suneel-yekasiri?tab=repositories)
 
- 💬 Ask me about 
+ 💬 **Ask me about**
     - java, python, html, css, js
 
- 📫 How to reach me 
-    - **yekasirisuneel786@gmail.com**
+ 📫 **How to reach me**
+    - yekasirisuneel786@gmail.com
 
- ⚡ Fun fact 
-    - **I'm a recent graduate with a passion for programming. I am certified Full Stack developer and have been working on building web applications in my free time. I love the challenge of creating something from scratch and the satisfaction of seeing my code come to life. I'm excited to continue learning and growing my skills as a full stack developer**
+ ⚡ **Fun fact**
+    - I'm a recent graduate with a passion for programming. I am certified Full Stack developer and have been working on building web applications in my free time. I love the challenge of creating something from scratch and the satisfaction of seeing my code come to life. I'm excited to continue learning and growing my skills as a full stack developer
 
 
 <h3 align="left">Connect with me:</h3>
