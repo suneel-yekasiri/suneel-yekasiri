@@ -53,15 +53,15 @@ I'm a recent graduate looking for opportunities to start my career in IT. I'm pa
 </p>
 
 
-<p align="center">
-  <a href="https://github.com/your_username">
-    <img src="https://img.shields.io/github/followers/your_username?label=Follow&style=social" alt="GitHub Follow" />
-  </a>
+<p>
+ <img align="left" height="300px" width="400px" background-color:"green" src="https://github-readme-stats.vercel.app/api/top-langs?username=suneel-yekasiri&show_icons=true&locale=en&layout=compact" alt="suneel-yekasiri" />
 </p>
 
-<p><img align="left" height="300px" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs?username=suneel-yekasiri&show_icons=true&locale=en&layout=compact" alt="suneel-yekasiri" /></p>
+<p>&nbsp;
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=suneel-yekasiri&show_icons=true&locale=en" alt="suneel-yekasiri" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=suneel-yekasiri&show_icons=true&locale=en" alt="suneel-yekasiri" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=suneel-yekasiri&" alt="suneel-yekasiri" /></p>
+<p>
+ <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=suneel-yekasiri&" alt="suneel-yekasiri" />
+</p>
 
