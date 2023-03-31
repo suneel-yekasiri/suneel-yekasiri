@@ -5,11 +5,9 @@
 I'm a recent graduate looking for opportunities to start my career in IT. I'm passionate about development and always eager to learn and grow.
 
  🌱 **I’m currently learning**
-
     - full stack development
 
- 👨‍💻 **All of my projects are available at**
-    -[https://github.com/suneel-yekasiri?tab=repositories](https://github.com/suneel-yekasiri?tab=repositories)
+ 👨‍💻 **All of my projects are available at** -[https://github.com/suneel-yekasiri?tab=repositories](https://github.com/suneel-yekasiri?tab=repositories)
     
  💬 **Ask me about** - java, python, html, css, js
  
