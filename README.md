@@ -16,6 +16,7 @@ I'm a recent graduate looking for opportunities to start my career in IT. I'm pa
  
  ⚡ **Fun fact** - I have passion for programming. I am certified Full Stack developer and have been working on building web applications in my free time. I love the challenge of creating something from scratch and the satisfaction of seeing my code come to life. I'm excited to continue learning and growing my skills as a full stack developer
 
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/suneel-yekasiri-b6674623b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/suneel-yekasiri-b6674623b" height="30" width="40" margin="10px" padding="10px" />
@@ -51,9 +52,11 @@ I'm a recent graduate looking for opportunities to start my career in IT. I'm pa
 <p>
  <img align="left" height="300px" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs?username=suneel-yekasiri&show_icons=true&locale=en&layout=compact" alt="suneel-yekasiri" />
 </p>
+
 <p>&nbsp;
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=suneel-yekasiri&show_icons=true&locale=en" alt="suneel-yekasiri" />
 </p>
+
 <p>
  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=suneel-yekasiri&" alt="suneel-yekasiri" />
 </p>
