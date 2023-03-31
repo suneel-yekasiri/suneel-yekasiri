@@ -1,4 +1,4 @@
-<h1 align="center">Hello 👋, I'm suneel yekasiri</h1> (- <a href="https://lnkd.in/gupCB6RH"><img src="https://logos-download.com/wp-content/uploads/2021/01/Portfolio_Plus_Banking_Software_Logo-700x156.png" height="20px"></a>)
+<h1 align="center">Hello 👋, I'm suneel yekasiri</h1>
 <h3 align="center">A passionate full stack developer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suneel-yekasiri&label=Profile%20views&color=0e75b6&style=flat" alt="suneel-yekasiri" /> </p>
 
@@ -47,7 +47,7 @@ I'm a recent graduate looking for opportunities to start my career in IT. I'm pa
  <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40" margin="10px" padding="10px"/> </a> 
  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40" margin="10px" padding="10px"/> </a> 
 </p>
-
+- <a href="https://lnkd.in/gupCB6RH"><img src="https://logos-download.com/wp-content/uploads/2021/01/Portfolio_Plus_Banking_Software_Logo-700x156.png" height="20px"></a>
 <p>
  <img align="left" height="300px" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs?username=suneel-yekasiri&show_icons=true&locale=en&layout=compact" alt="suneel-yekasiri" />
 </p>
