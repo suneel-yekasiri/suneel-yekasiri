@@ -13,9 +13,7 @@ I'm a recent graduate looking for opportunities to start my career in IT. I'm pa
     -[https://github.com/suneel-yekasiri?tab=repositories](https://github.com/suneel-yekasiri?tab=repositories)
     
  💬 **Ask me about** - java, python, html, css, js
-    
  📫 **How to reach me** - yekasirisuneel786@gmail.com
- 
  ⚡ **Fun fact** - I'm a recent graduate with a passion for programming. I am certified Full Stack developer and have been working on building web applications in my free time. I love the challenge of creating something from scratch and the satisfaction of seeing my code come to life. I'm excited to continue learning and growing my skills as a full stack developer
 
 - <a href="https://lnkd.in/gupCB6RH"><img src="https://logos-download.com/wp-content/uploads/2021/01/Portfolio_Plus_Banking_Software_Logo-700x156.png" height="20px"></a>
