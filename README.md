@@ -58,6 +58,6 @@ I'm a recent graduate looking for opportunities to start my career in IT. I'm pa
 </p>
 
 <p>
- <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=suneel-yekasiri&" alt="suneel-yekasiri" />
+ <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=suneel-yekasiri&" alt="suneel-yekasiri" />
 </p>
 
