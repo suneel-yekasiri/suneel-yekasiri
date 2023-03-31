@@ -16,7 +16,7 @@ I'm a recent graduate looking for opportunities to start my career in IT. I'm pa
  
  ⚡ **Fun fact** - I have passion for programming. I am certified Full Stack developer and have been working on building web applications in my free time. I love the challenge of creating something from scratch and the satisfaction of seeing my code come to life. I'm excited to continue learning and growing my skills as a full stack developer
 
- **.**Check out my portfolio at [portfolio](https://lnkd.in/giPv3SJD)
+ 👨 Check out my portfolio at [portfolio](https://lnkd.in/giPv3SJD)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
